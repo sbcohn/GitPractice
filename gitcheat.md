@@ -24,4 +24,10 @@ git push -u origin master
 to push changes to github in the future
 git push
 
-git for sharing and collaboration
+save file
+add
+commit
+push to github
+
+but add and commit at the same time 
+git commit -am "[message about the commits]"
