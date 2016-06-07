@@ -16,6 +16,12 @@ git commit -am "[message about the commits]"
 git status
 git add
 git commit -m "[message]"
-and even this command we will be explaining below
 
+and even this command we will be explaining below
 git push -u origin master
+
+
+to push changes to github in the future
+git push
+
+git for sharing and collaboration
