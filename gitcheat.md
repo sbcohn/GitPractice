@@ -33,4 +33,4 @@ push to github
 but add and commit at the same time 
 git commit -am "[message about the commits]"
 
-~~testing the strikethru
+the strike through thingy didn't work
